@@ -1,0 +1,157 @@
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+
+    
+    
+}
+
+/*Navigation Section*/
+header {
+    background-color: #456a6e;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 45px;
+    padding-left: 20px;
+}
+
+
+header nav {
+    padding-top: 15px;
+    padding-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+    
+}
+ 
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: lighter;
+}
+
+/*Top Image*/
+.masthead-image img {
+    width: 100%;
+    margin-bottom: 36px;
+    text-align: center;
+    display: inline-block;
+}
+
+.content-area {
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+
+.portfolio-section {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 36px;
+}
+
+.section-header-container {
+    float: left;
+    width: 20%;
+    border-right: 6px solid #456a6e;
+}
+
+.section-header-title {
+    text-align: right;
+    font-size: 36px;
+    padding-right: 10px;
+}
+
+.section-content-container {
+    float: right;
+    width: 70%;
+}
+
+
+.project {
+    display: block;
+    width: 100%;
+    text-decoration: none; 
+    margin: 1em 0;
+    cursor: pointer;
+    border: 2px solid #456a6e;
+}
+
+
+figure {
+    margin: 0;
+    padding: 0;
+}
+
+.project-img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+    height: 200px;
+    opacity: .7;
+}
+
+.project-img:hover {
+    opacity: 1;
+}
+
+.project figcaption {
+    padding: 1em;
+    background: #3a3d3b;
+    color: white;
+}
+
+.project h3 {
+    color: white;
+    margin: 0;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(2,1fr);
+    grid-gap: 1em;
+}
+
+
+
+.box1 {
+    grid-column: 1/3;
+    grid-row: 1/3;
+}
+
+
+.contact-me h2 {
+    font-weight: bold;
+    font-size: 30px;
+}
+.flex-items a {
+    color: black;
+}
+
+.flex-items {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    text-decoration: underline;
+    font-size: 20px;
+}
