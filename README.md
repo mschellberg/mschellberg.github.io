@@ -10,5 +10,5 @@ Week 2: Portfolio
 To see the output of code use the URL:
 https:mschellberg.git.io(assignment)
 
-1. Week 1 [Horiseon](https://mschellberg.github.io/Horiseon/)
-2. Week 2 [Portfolio](https://mschellberg.github.io/portfolio)
+1. Week [Horiseon](https://mschellberg.github.io/Horiseon/)
+2. Week [Portfolio](https://mschellberg.github.io/portfolio)
