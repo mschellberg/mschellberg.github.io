@@ -3,7 +3,7 @@ Code can be found in github repository, mschellberg.git.io
 Each assignment is placed in its own directory
 
 # List of Assignments
-Week 1: Horiseon
+Week 1: Horiseon<br>
 Week 2: Portfolio
 Week 3: Password Generator 
 
