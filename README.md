@@ -5,6 +5,7 @@ Each assignment is placed in its own directory
 # List of Assignments
 Week 1: Horiseon
 Week 2: Portfolio
+Week 3: Password Generator 
 
 # Viewing
 To see the output of code use the URL:
@@ -12,3 +13,4 @@ https:mschellberg.git.io(assignment)
 
 1. [Horiseon](https://mschellberg.github.io/Horiseon/)
 2. [Portfolio](https://mschellberg.github.io/portfolio)
+3. [Password Generator](https://mschellberg.github.io/passgen)
