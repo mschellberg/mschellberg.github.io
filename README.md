@@ -4,7 +4,7 @@ Each assignment is placed in its own directory
 
 # List of Assignments
 Week 1: Horiseon<br>
-Week 2: Portfolio
+Week 2: Portfolio\
 Week 3: Password Generator 
 
 # Viewing
