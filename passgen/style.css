@@ -72,6 +72,10 @@ header {
   clear: both;
 }
 
+h2 {
+  text-align: center;
+}
+
 .btn {
   border: none;
   background-color: hsl(360, 91%, 36%);
@@ -133,5 +137,8 @@ button[disabled] {
 @media (max-width: 500px) {
   .btn {
     font-size: 0.8rem;
+    }
+  h2 {
+    text-align: center;
   }
 }
